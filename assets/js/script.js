@@ -21,7 +21,7 @@ var questions = [
     },
     {
         question: "How can you add a comment in a JavaScript?",
-        options: ["//This is a comment", "'This is a comment", "<!--This is a comment-->", "`This is a comment"],
+        options: ["//This is a comment", "(This is a comment)", "<This is a comment>", "`This is a comment"],
         correctAns: 0,
     },
     {
