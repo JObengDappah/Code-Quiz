@@ -8,6 +8,8 @@
 
 - [Contact](#contact)
 
+- [Link](#link)
+
 ***
 
 ## Description
@@ -28,9 +30,13 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+## Link
+
+<http://127.0.0.1:5500/Code-Quiz/index.html>
+
 ## Contact
 
 For additional questions,
 
 ![GitHub]
- <https://github.com/JObengDappah/Tech-Blog>
+<https://github.com/JObengDappah/Code-Quiz>
