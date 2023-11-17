@@ -10,6 +10,8 @@
 
 - [Link](#link)
 
+-[Screenshot](#screenshot)
+
 ***
 
 ## Description
@@ -31,7 +33,8 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Link
-
+ 
+**Github
 <http://127.0.0.1:5500/Code-Quiz/index.html>
 
 ## Contact
@@ -40,3 +43,7 @@ For additional questions,
 
 ![GitHub]
 <https://github.com/JObengDappah/Code-Quiz>
+
+## Screenshot
+
+  ![Screenshot Two](assets/images/Screenshot%202023-11-16%20210940.png)
